@@ -13,7 +13,7 @@
       <div class="section">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 col-md-offset-3 bg-white p-30 box">
+            <div class="col-md-12 bg-white p-30 box">
               <div class="text-center">
                 <h1 class="text-green mb-30"><b>Level 8 Challenge</b></h1>
               </div>
@@ -45,10 +45,9 @@
                 <label>Password</label>
                 <input type="password" class="form-control">
               </div>
-              <div class="text-center mt-30 mb-30">
+              <div class="mt-30 mb-30">
                 <button class="btn btn-primary">Submit</button>
               </div>
-              <hr>
               <div class="post">
                 <div class="clearfix">
                   <div class="pull-left">
